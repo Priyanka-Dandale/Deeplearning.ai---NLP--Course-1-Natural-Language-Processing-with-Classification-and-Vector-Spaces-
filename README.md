@@ -1,6 +1,8 @@
 # NLP---Deeplearning.ai 
 
-Course-1 - Natural Language Processing with Classification and Vector Spaces
+## Course-1 - Natural Language Processing with Classification and Vector Spaces
+
+### Kindly do not copy the solutions. Adhere to the code of conduct of Deeplearning.ai and Coursera. This repository is for my personal reference.
 
 
 About this Course
